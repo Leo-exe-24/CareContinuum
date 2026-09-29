@@ -1,0 +1,45 @@
+server:
+  port: 8080
+  error:
+    include-message: always
+spring:
+  application:
+    name: carecontinuum
+  thymeleaf:
+    cache: false
+  servlet:
+    multipart:
+      max-file-size: 25MB
+      max-request-size: 25MB
+carecontinuum:
+  random-seed: 42
+  test-size: 0.20
+  cv-folds: 5
+  minimum-visits-for-coc: 2
+  coc-low-threshold: 0.30
+  coc-high-threshold: 0.70
+  risk-low-threshold: 0.33
+  risk-high-threshold: 0.66
+  synthetic-patient-count: 2000
+  training:
+    max-depth: 4
+    learning-rate: 0.05
+    estimators: 160
+    subsample: 0.85
+    column-sample: 0.85
+    min-child-weight: 2
+  synthetic-resource: classpath:data/synthetic/carecontinuum_demo.csv
+  model-dir: models
+  report-dir: reports
+  gap:
+    high-fragmentation: 0.60
+    provider-switch-count: 3
+    low-coc: 0.30
+    long-followup-days: 60
+    missed-appointments: 3
+    caregiver-changes: 3
+    emergency-increase: 2
+logging:
+  level:
+    root: INFO
+    org.carecontinuum: INFO
