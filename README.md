@@ -130,5 +130,6 @@ README.md              Project guide
 - Only use synthetic data while exploring this prototype. Do not use it to make patient-care decisions.
 
 ## License
-
+ Copyright © 2026 Mohammad Liyakat. All rights reserved.
+This repository is provided for viewing purposes only. Unauthorized copying, modification, distribution, or use of this code is prohibited.
 This repository does not currently include a license for reuse. Public visibility on GitHub does not itself grant permission to reuse the project. Review third-party dependency licenses before redistribution or deployment.
