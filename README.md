@@ -131,8 +131,6 @@ README.md              Project guide
 
 ## Screenshots
 
-<img width="1901" height="915" alt="Screenshot 2026-09-29 211040" src="https://github.com/user-attachments/assets/eb628566-8461-4ba1-8e5f-d59e67e44a9b" />
-
 <img width="1900" height="921" alt="Screenshot 2026-09-29 211106" src="https://github.com/user-attachments/assets/1d6ca9c4-472b-4976-bf18-39d696655897" />
 
 <img width="1896" height="916" alt="Screenshot 2026-09-29 212543" src="https://github.com/user-attachments/assets/b9a8ccf4-86ab-49ce-8f00-19adfbce9a41" />
