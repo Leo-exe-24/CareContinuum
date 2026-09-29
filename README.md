@@ -129,6 +129,18 @@ README.md              Project guide
 - The local single-user session design does not provide production authentication, authorization, encryption, audit logging, or privacy controls.
 - Only use synthetic data while exploring this prototype. Do not use it to make patient-care decisions.
 
+## Screenshots
+
+<img width="1901" height="915" alt="Screenshot 2026-09-29 211040" src="https://github.com/user-attachments/assets/eb628566-8461-4ba1-8e5f-d59e67e44a9b" />
+
+<img width="1900" height="921" alt="Screenshot 2026-09-29 211106" src="https://github.com/user-attachments/assets/1d6ca9c4-472b-4976-bf18-39d696655897" />
+
+<img width="1896" height="916" alt="Screenshot 2026-09-29 212543" src="https://github.com/user-attachments/assets/b9a8ccf4-86ab-49ce-8f00-19adfbce9a41" />
+
+<img width="1897" height="911" alt="Screenshot 2026-09-29 212557" src="https://github.com/user-attachments/assets/b810d73e-e6eb-45f9-b89e-104da17ef044" />
+
+<img width="1897" height="906" alt="Screenshot 2026-09-29 212627" src="https://github.com/user-attachments/assets/e0df373b-0c15-4db6-bf9a-037965066fdd" />
+
 ## License
  Copyright © 2026 Mohammad Liyakat. All rights reserved.
 This repository is provided for viewing purposes only. Unauthorized copying, modification, distribution, or use of this code is prohibited.
